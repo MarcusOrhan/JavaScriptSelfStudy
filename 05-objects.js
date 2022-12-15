@@ -28,3 +28,8 @@ myCookie.eatCookie();
 console.timeLog;
 console.log("Marc");
 console.log("!5 december");
+
+
+
+
+console.log("2022 Good Year");
