@@ -25,3 +25,6 @@ console.log("I was eating " + this.name + " cookie in The CLASS." )
 const myCookie = new Cookie("Oreo", false, false);
 console.log(myCookie);
 myCookie.eatCookie();
+console.timeLog;
+console.log("Marc");
+console.log("!5 december");
